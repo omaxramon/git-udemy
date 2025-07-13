@@ -1,4 +1,5 @@
 testando repo 1
 testando uma nova atualização de arquivo
+testando comando git reset
 
 
